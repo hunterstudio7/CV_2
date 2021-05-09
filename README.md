@@ -18,6 +18,4 @@ When you lose balance or the next cubes cannot be placed, this means that the ga
 
 ![](screenshots/game3.1.png)
 
-## The Shop
-You can buy different colors of cubes in the store. The colors open automatically when you hit the required high score.
 
