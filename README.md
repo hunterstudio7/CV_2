@@ -1,6 +1,5 @@
-# Cubic Balance
-> This game was created on Unity. The gameplay is about balancing the cubes. You can build various towers, but you need to be careful and think everything in advance so that your structure does not collapse into small cubes. The game ends when you out of balance or it is impossible to build the next cube. The main task is to gain more and more points each time, but nobody canceled your creativity either! Also, an additional interest is to gain more and more records in order to discover new colors of cubes, which can be obtained in the record store.
-
+# Colors
+> This game was created on Unity. This game is Colors. The idea was to create a game that will not only entertain, but also help people develop their skill to distinguish colors that are very similar to themselves. And the system of counting the record will motivate you to enter the game more often.
 
 This is main menu
 
@@ -9,7 +8,7 @@ This is main menu
 ## Gameplay
 
 
-The cube appears every second, it shows the places where you can place the cubes. If you tap on the screen the cube will appear in the same place. The main thing is to have time to click on the screen so that your tower does not lose balance, otherwise the game will be over.
+The gameplay consists in choosing the correct color from 4 cubes. Three of them are the same, one is slightly different in color. With each correct answer, the difficulty increases as the colors become more and more similar to each other. It adds to the complexity that this needs to be done in literally a few seconds, if you do not have time, then the game is over and you need to start over
 
 ![](screenshots/game2.png)
 
