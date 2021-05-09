@@ -14,7 +14,7 @@ The gameplay consists in choosing the correct color from 4 cubes. Three of them 
 
 ## End of the game
 
-When you lose balance or the next cubes cannot be placed, this means that the game is over and the camera moves away along with the shaking to make the effect of a large object falling. The strength of the shaking increases with the height of the tower.
+The game ends in two cases - if you did not manage to choose the correct color within a few seconds, or if you choose the wrong color.
 
 ![](screenshots/game3.1.png)
 
