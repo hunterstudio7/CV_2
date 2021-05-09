@@ -10,7 +10,7 @@ This is main menu
 
 The gameplay consists in choosing the correct color from 4 cubes. Three of them are the same, one is slightly different in color. With each correct answer, the difficulty increases as the colors become more and more similar to each other. It adds to the complexity that this needs to be done in literally a few seconds, if you do not have time, then the game is over and you need to start over
 
-![](screenshots/game2.jpg)
+![](screenshots/game2.jpeg)
 
 ## End of the game
 
